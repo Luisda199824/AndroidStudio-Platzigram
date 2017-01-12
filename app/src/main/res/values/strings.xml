@@ -1,0 +1,30 @@
+<resources>
+    <string name="title_activity_referencia">Referencia</string>
+    <string name="app_name">Platzigram</string>
+    <string name="hint_username">Nombre de usuario</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="text_button_login">Login</string>
+    <string name="logo_descripcion">Logo de Platzigram</string>
+    <string name="dont_have_account">¿No tienes cuenta?,</string>
+    <string name="create_here"> Crea una aquí</string>
+    <string name="hint_email">Correo electrónico</string>
+    <string name="hint_name">Nombre</string>
+    <string name="hint_user">Usuario</string>
+    <string name="hint_confirm_password">Confirmar la contraseña</string>
+    <string name="text_button_createaccount">Únete</string>
+    <string name="toolbar_title_createaccount">Crear cuenta</string>
+    <string name="username_card">Uriel Ramiréz</string>
+    <string name="firstword_card">Hace</string>
+    <string name="timecard_card">4 días</string>
+    <string name="likenumber_card">10 me gusta</string>
+    <string name="tab_search">Buscar</string>
+    <string name="tab_home">Home</string>
+    <string name="tab_profile">Yo</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="second_word_detail">me gusta</string>
+    <string name="titleimagedetail">\"Todo copas en la playa\"</string>
+    <string name="lorem">Al contrario del pensamiento popular, el texto de Lorem Ipsum no es simplemente texto aleatorio. Tiene sus raices en una pieza cl´sica de la literatura del Latin, que data del año 45 antes de Cristo, haciendo que este adquiera mas de 2000 años de antiguedad. Richard McClintock, un profesor de Latin de la Universidad de Hampden-Sydney en Virginia, encontró una de las palabras más oscuras de la lengua del latín, \"consecteur\", en un pasaje de Lorem Ipsum, y al seguir leyendo distintos textos del latín, descubrió la fuente indudable. Lorem Ipsum viene de las secciones 1.10.32 y 1.10.33 de \"de Finnibus Bonorum et Malorum\" (Los Extremos del Bien y El Mal) por Cicero, escrito en el año 45 antes de Cristo. Este libro es un tratado de teoría de éticas, muy popular durante el Renacimiento. La primera linea del Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", viene de una linea en la sección 1.10.32</string>
+    <string name="transicionname_picture">transicionname_picture</string>
+</resources>
